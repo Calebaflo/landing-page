@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Lilita+One|Roboto:300,400,500,700,900&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+}
+
+
+.btn-light{
+	font-family: 'Lilita One';
+	border-radius: 15px;
+	margin-right: 8px;
+	margin-bottom: 10px;
+	word-spacing: 2px;
+	background-color: #262A2C;
+	color: #FFFFFF;
+	border: 0;
+}
+
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: 19%;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+	background-color: #fff !important;
+}
+.header-area.sticky .navbar-light{
+	background-color: #FFFFFF;
+}
+
+#hero{
+	background-image: url("../img/background-hero-nintendoswitch.png");
+	background-position: top center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	padding: 18% 0;
+	color: #FFFFFF;
+}
+
+
+#precios .titulo{
+	font-size: 50px;
+	font-weight: 400;
+	color: #262A2C;
+	font-family: 'Lilita One';
+	padding-top: 10%; 
+	
+}
+
+
+.info {
+	justify-content: center;
+	text-align: center;
+	padding: 19px 40%;
+	line-height: 5px;
+	color: #000;
+		
+}
+
+#precios .text{
+	padding: 29px 0;
+	justify-content: center;
+}
+
+.texto{
+	padding: 13% 0;
+	justify-content: center;
+}
+
+#precios{
+	background-image: url("../img/Nintendo-Switch-Portable.png");
+	background-size: contain;
+	color: #FFFFFF;
+}
+
+
+.NesLogo{
+    position: absolute;
+    bottom: 40px;
+    right:  10px;
+}
+
+#juegos{
+	background-image: url("../img/Imagen 2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 10%;
+}
+
+
+#juegos .titulo{
+	font-size: 50px;
+	font-weight: 400;
+	color: #FFFFFF;
+	font-family: 'Lilita One';
+	padding: 5% 0; 
+}
+
+
+#cuenta{
+	background-position:bottom;
+	background-size:auto;
+	background-repeat:repeat;
+	text-align: center
+}
+
+#cuenta h1{
+	color: #fff;
+	font-size: 55px;
+	text-align: justify;
+	font-weight: 400;
+	margin-top: 30%;
+	
+}
+
+#cuenta p {
+	font-size: 18px;
+	font-weight: 100;
+	color: #FFFFFF;
+	text-align:justify;
+}
+
+#cuenta .btn-light{
+	background-color:#000000;
+	text-align: left;
+	color: #FFFFFF;
+	font-size: 16px;
+	border: 2px;
+	padding: 10px 40px;
+	font-weight: 300;
+	border-radius: 10px;
+	padding-bottom: 12px;
+}
+
+footer{
+	background-color: #262A2C;
+	color: #FFFFFF;
+}
+footer h3{
+	font-size: 16px;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+
+
+#iconos i{
+	font-size: 40px;
+}
+
+#iconos h4{
+	color: #000;
+}
+
+
+
