@@ -40,6 +40,19 @@ body{
 	color: #FFFFFF;
 }
 
+#subscribe .titulo{
+	font-size: 50px;
+	font-weight: 400;
+	color: #262A2C;
+	font-family: 'Lilita One';
+}
+
+#hero .titulo{
+	font-size: 50px;
+	font-weight: 400;
+	color: #262A2C;
+	font-family: 'Lilita One';
+}
 
 #precios .titulo{
 	font-size: 50px;
